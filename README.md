@@ -43,6 +43,7 @@ The following demos are very low quality renderings of what Poppy can do. There 
 
 ```bash
     apt install git-core build-essential libsdl-image1.2-dev libsdl1.2-dev libopencv-dev
+    apt install libboost-all-dev mencoder
     git clone https://github.com/kallaballa/Poppy.git
     cd Poppy
     make -j
